@@ -41,7 +41,7 @@
 # node's preview area to modify the image's tones. The node outputs both the
 # original and the adjusted image/mask for flexible workflow routing.
 #
-# Version: 1.0.3
+# Version: 1.0.4
 #
 # License: See LICENSE.txt
 #

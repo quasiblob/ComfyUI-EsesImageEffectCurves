@@ -11,9 +11,9 @@
 
 ## Description
 
-The 'Eses Image Effect Curves' is a ComfyUI custom node that provides a real-time curves adjustment tool directly within the user interface. It allows for precise, interactive control over the tonal range of both images and masks, using a GPU-accelerated PyTorch backend for instant feedback.
+The 'Eses Image Effect Curves' is a ComfyUI custom node that provides a real-time curves adjustment tool directly within the user interface. It allows for interactive control over the tonal range of both images and masks, using a GPU-accelerated PyTorch backend for near instant feedback.
 
-This node is designed for those who want a single tool for complex tonal adjustments without needing to chain multiple nodes together. All curve settings are saved with your workflow and are fully restored when you reload the page, ensuring a seamless and non-destructive workflow.
+This node is a single tool for tonal adjustments without need to chain multiple nodes together. All curve settings are saved with your workflow and are restored when you reload the page, ensuring a seamless and non-destructive workflow.
 
 💡 If you have ComfyUI installed, you don't need any extra dependencies.
 
@@ -122,7 +122,9 @@ Eses Nodes/Image Adjustment
 
 ## Version History
 
-**2025.7.02 Version 1.0.3** Cleanup comments and description
+**2025.7.7 Version 1.0.4** Cleanup code formatting
+
+**2025.7.2 Version 1.0.3** Cleanup comments and description
 
 **2025.6.29 Version 1.0.2** Fixed deserialization related field duplication issue
 
