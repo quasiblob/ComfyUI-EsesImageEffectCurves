@@ -122,6 +122,8 @@ Eses Nodes/Image Adjustment
 
 ## Version History
 
+**2025.7.11 Version 1.2.0** Added JS save button and a route for saving presets from node UI
+
 **2025.7.7 Version 1.0.4** Cleanup code formatting
 
 **2025.7.2 Version 1.0.3** Cleanup comments and description
